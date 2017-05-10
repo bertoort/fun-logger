@@ -1,0 +1,13 @@
+console.log("Welcome!!");
+console.log('<-- Default log with an emoji');
+console.print('Default print. No emoji');
+console.set({size: "2em", useTable: true});
+console.party("Party", "Time");
+console.crystal("Crystal", "looks", "awesome");
+console.burn("BY", "FIRE", "BE", "PURGED");
+console.static("Static theme");
+console.color("cooolooors");
+console.spring("Is Spring Awesome??", true);
+console.rand("That's so random");
+console.print("Printing", "all", "the things", 123, false);
+console.print([1,2,3], function() {});
