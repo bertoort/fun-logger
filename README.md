@@ -7,7 +7,7 @@ Experimental project exploring the JavaScript console.
 Require the script.
 
 ```html
-<script src="https://rawgit.com/berto/fun-logger/master/fun-logger.js" type="text/javascript"></script>
+<script src="https://cdn.rawgit.com/berto/fun-logger/master/fun-logger-1.0.0.js" type="text/javascript"></script>
 ```
 
 `console.log` works per usual with an added random emoji at the beginning.
